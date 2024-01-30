@@ -126,7 +126,7 @@ root@2467304-nbservice:~# curl http://localhost:8080
 </html>
 ```
 
-!()[]
+![](https://github.com/Sunabak/Otus_13/blob/main/nginx.JPG)
 
 ## 4 Pазницу между контейнером и образом:
 
